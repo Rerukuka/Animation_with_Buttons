@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowMaskPainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\SnowMaskPainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawOnMask 1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\DrawOnMask 1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawOnMask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\DrawOnMask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\FootprintTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\FootprintTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\shaders-snow-layers-main\\Assets\\Scripts\\DemoSnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\shaders-snow-layers-main\\Assets\\Scripts\\DemoSnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DemoSnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\DemoSnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\UnityTechnologies\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UnityTechnologies\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawCircleShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\DrawCircleShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowPainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\SnowPainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\Snowing.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\Snowing.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\CustomSnowDeform.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\CustomSnowDeform.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowHeightMapUpdate.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\SnowHeightMapUpdate.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\snow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DungeonModularPack\\snow\\snow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\FullOpaqueVFX\\Script\\VFX_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FullOpaqueVFX\\Script\\VFX_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawOnMask 1.shader",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawOnMask 1.shader",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\DrawOnMask 1.shader",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawOnMask 1.shader",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\DrawOnMask 1.shader",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T11:33:14.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawOnMask.shader",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawOnMask.shader",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\DrawOnMask.shader",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawOnMask.shader",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\DrawOnMask.shader",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T11:24:36.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnowMaskPainter.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowMaskPainter.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\SnowMaskPainter.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowMaskPainter.cs",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\SnowMaskPainter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:23:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootprintTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\FootprintTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\FootprintTrigger.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\FootprintTrigger.cs",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\FootprintTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:05:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoSnow.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\shaders-snow-layers-main\\Assets\\Scripts\\DemoSnow.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\shaders-snow-layers-main\\Assets\\Scripts\\DemoSnow.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\shaders-snow-layers-main\\Assets\\Scripts\\DemoSnow.cs",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\shaders-snow-layers-main\\Assets\\Scripts\\DemoSnow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:16:38.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoSnow.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DemoSnow.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\DemoSnow.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DemoSnow.cs",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\DemoSnow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:16:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrawCircleShader.shader",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawCircleShader.shader",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\DrawCircleShader.shader",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\DrawCircleShader.shader",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\DrawCircleShader.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T22:46:10.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SnowPainter.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowPainter.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\SnowPainter.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowPainter.cs",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\SnowPainter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:44:57.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Snowing.shader",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\Snowing.shader",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\Snowing.shader",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\Snowing.shader",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\Snowing.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T22:34:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomSnowDeform.shader",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\CustomSnowDeform.shader",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\CustomSnowDeform.shader",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\CustomSnowDeform.shader",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\CustomSnowDeform.shader",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T21:52:50.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SnowHeightMapUpdate.shader",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowHeightMapUpdate.shader",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\SnowHeightMapUpdate.shader",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\SnowHeightMapUpdate.shader",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\SnowHeightMapUpdate.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T21:51:20.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "snow.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\snow.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonModularPack\\snow\\snow.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\DungeonModularPack\\snow\\snow.cs",
+              "RelativeToolTip": "Assets\\DungeonModularPack\\snow\\snow.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwD4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:28:44.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VFX_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\FullOpaqueVFX\\Script\\VFX_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\FullOpaqueVFX\\Script\\VFX_Controller.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\FullOpaqueVFX\\Script\\VFX_Controller.cs",
+              "RelativeToolTip": "Assets\\FullOpaqueVFX\\Script\\VFX_Controller.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:25:35.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\UnityTechnologies\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "C:\\Users\\Rerukui\\Desktop\\RUNNER\\AnimationTry\\Assets\\UnityTechnologies\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAEwFoBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:56:04.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
